@@ -1,0 +1,17 @@
+{
+  "name": "yup-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "schema.js",
+  "scripts": {
+    "start": "nodemon -r esm ./schema.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "lodash": "^4.17.15",
+    "nodemon": "^2.0.2",
+    "yup": "^0.28.1"
+  }
+}
